@@ -1,2 +1,2 @@
 # Scrapy-IA
-Extracting news from CIA page with Scrapy
+Extracting news from CIA's website with Scrapy
